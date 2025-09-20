@@ -43,4 +43,3 @@ echo "----"
 echo "Found ${count} product(s) containing: \"${INGREDIENT}\""
 # cleanup
 rm -f "$tmp_matches"
-chmod +x find_ingredient.sh # make the script executable
